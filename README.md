@@ -6,3 +6,6 @@ The following objectives were carried out:
 #### Exploratory Data Analysis to determine the churning rate and the causes
 #### Insight and Possible Solution: The reasons for churning were explored for a possible solution
 #### Unsupervised and Supervised machine learning models were built for Customer Segmentation and Churn prediction respectively
+
+![image](https://github.com/Egunjobi-Tunde/Churn-Prediction-and-Customer-Segmentation/assets/105982006/7b1933c3-4adb-4892-a158-063bf6e36eb4)
+
